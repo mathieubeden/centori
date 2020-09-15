@@ -1,0 +1,52 @@
+@charset "UTF-8";
+.carou {
+  width: 100% !important;
+  height: 700px !important;
+  -webkit-box-sizing: content-box !important;
+          box-sizing: content-box !important;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+vrt {
+  color: #8dc63f;
+}
+
+.head {
+  background-color: black;
+  color: #636363;
+}
+
+colr2 {
+  color: #959595;
+}
+
+.exe {
+  background-color: #1a1a1a;
+}
+
+.txt1 {
+  color: #707070;
+}
+
+.èxe {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.red {
+  color: red;
+}
+
+.carousel {
+  width: 100% !important;
+  -webkit-box-sizing: content-box !important;
+          box-sizing: content-box !important;
+}
+/*# sourceMappingURL=centoris.css.map */
