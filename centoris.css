@@ -42,7 +42,7 @@ colr2 {
 
 .red {
   color: red;
-  border-width: 3px;
+  border-width: 3px !important;
 }
 
 .carousel {
@@ -53,10 +53,11 @@ colr2 {
 
 body {
   background-color: #1a1a19;
+  color: #636363;
 }
 
 .branding {
-  color: #636363;
+  color: #959595;
 }
 
 .wht {
