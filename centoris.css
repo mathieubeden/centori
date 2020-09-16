@@ -1,7 +1,7 @@
 @charset "UTF-8";
 .carou {
   width: 101% !important;
-  height: 650px !important;
+  height: 600px !important;
   -webkit-box-sizing: content-box !important;
           box-sizing: content-box !important;
   text-transform: uppercase;
@@ -89,27 +89,27 @@ body {
 }
 
 .re2 {
-  background-image: url("./photo (1).png");
+  background-image: url("./img/photo (1).png");
   height: 270px;
 }
 
 .re3 {
-  background-image: url("./photo (2).png");
+  background-image: url("./img/photo (2).png");
   height: 270px;
 }
 
 .re4 {
-  background-image: url("./photo (3).png");
+  background-image: url("./img/photo (3).png");
   height: 270px;
 }
 
 .re5 {
-  background-image: url("./photo (4).png");
+  background-image: url("./img/photo (4).png");
   height: 270px;
 }
 
 .re6 {
-  background-image: url("./photo (5).png");
+  background-image: url("./img/photo (5).png");
   height: 270px;
 }
 
@@ -117,5 +117,14 @@ body {
   opacity: 0.6;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  cursor: pointer;
+}
+
+blk {
+  color: white;
+}
+
+.smalcase {
+  font-size: 12px;
 }
 /*# sourceMappingURL=centoris.css.map */
