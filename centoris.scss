@@ -25,6 +25,11 @@ colr2{
 .txt1{
     color: #636363;
 }
+.txt1:hover{
+    color:red;
+    transition:0.5s;
+    cursor: pointer;
+}
 .èxe{
     color: #ffffff;
     font-size: 56px;
@@ -63,7 +68,7 @@ body {
     border-radius: 50px;
 }
 .litle{
-    font-size: 13px;
+    font-size: 14px;
 }
 .re1 {
     height: 270px;
