@@ -44,6 +44,21 @@ red {
     color: red;
     border-width: 3px !important;
 }
+#red{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: red;
+}
+#white{
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 3px;
+}
 .carousel{
     width: 100%!important;
     box-sizing: content-box !important;
@@ -64,8 +79,9 @@ body {
     width: 100px;
     height: 100px;
     border: 1px solid;
-    padding-top: 35px;
+    padding-top: 28px;
     border-radius: 50px;
+    font-size: 25px;
 }
 .litle{
     font-size: 14px;
@@ -108,4 +124,8 @@ blk {
 }
 .smalcase{
     font-size: 12px;
+}
+.footr{
+    background-color: black;
+    color: #636363;
 }
